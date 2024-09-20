@@ -10,6 +10,12 @@ These workflows are powered by giz.ai, an all-in-one AI and productivity platfor
 
 The `AnimateLCM-FaceID.json` workflow is currently featured and available for free beta testing on our platform at [giz.ai/ai-face-video](https://www.giz.ai/ai-face-video/). This workflow integrates the power of the AnimateLCM model with FaceID to create dynamic, realistic face animations directly from text prompts and images. 
 
+### Key Features
+* AnimateDiff and AnimateLCM enable fast video creation even on low VRAM (tested on RTX 4070 Ti Super with 16G VRAM)
+* Integrated [ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) to improve prompt adherence and animation consistency.
+* Supports video upscaling and frame interpolation.
+* The IPAdapter FaceID Plus v2 can be integrated to apply facial images.
+
 ## Example Video
 
 Below is an example video generated using the `AnimateLCM-FaceID.json` workflow. The prompt used is sourced from OpenAI's Sora:

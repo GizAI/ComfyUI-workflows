@@ -18,7 +18,7 @@ Below is an example video generated using the `AnimateLCM-FaceID.json` workflow.
 
 Please note that the FaceID feature was not utilized in this particular example.
 
-![AnimateLCM-FaceID example](https://cdn.listp.com/videos/AnimateLCM-FaceID-01.webm)
+[![GizAI AnimateLCM example](https://img.youtube.com/vi/Vjpd8e-Tlp8/0.jpg)](https://www.youtube.com/shorts/Vjpd8e-Tlp8)
 
 ## License
 

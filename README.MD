@@ -48,5 +48,5 @@ For any questions or support, please reach out to us via our [website](https://w
 
 ---
 
-**GizAI Team**  
+**[GizAI Team](https://www.giz.ai/)**  
 *AI access is a basic human right. GizAI offers the most comprehensive AI and productivity tools at the lowest possible cost.*

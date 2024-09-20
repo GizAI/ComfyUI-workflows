@@ -1,6 +1,6 @@
 # ComfyUI Workflows by GizAI
 
-Welcome to the official GitHub repository for ComfyUI workflows by [giz.ai](https://www.giz.ai/). This repository features a collection of optimized and easy-to-use workflows designed to enhance your AI video generation projects using the powerful ComfyUI tool.
+Welcome to the official GitHub repository for ComfyUI workflows by [GizAI](https://www.giz.ai/). This repository features a collection of optimized and easy-to-use workflows designed to enhance your AI video generation projects using the powerful ComfyUI tool.
 
 ## About
 

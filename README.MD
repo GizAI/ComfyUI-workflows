@@ -23,7 +23,7 @@ Below is an example video generated using the `AnimateLCM-FaceID.json` workflow.
 > *"A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about."*
 Please note that the FaceID feature was not utilized in this particular example.
 
-[GizAI AnimateLCM screenshot](screenshots/AnimateLCM-FaceID-workflow.webp)
+[![GizAI AnimateLCM screenshot](screenshots/AnimateLCM-FaceID-workflow.webp)]
 
 [![GizAI AnimateLCM example](https://img.youtube.com/vi/Vjpd8e-Tlp8/0.jpg)](https://www.youtube.com/shorts/Vjpd8e-Tlp8)
 

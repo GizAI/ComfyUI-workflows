@@ -10,6 +10,16 @@ These workflows are powered by giz.ai, an all-in-one AI and productivity platfor
 
 The `AnimateLCM-FaceID.json` workflow is currently featured and available for free beta testing on our platform at [giz.ai/ai-face-video](https://www.giz.ai/ai-face-video/). This workflow integrates the power of the AnimateLCM model with FaceID to create dynamic, realistic face animations directly from text prompts and images. 
 
+## Example Video
+
+Below is an example video generated using the `AnimateLCM-FaceID.json` workflow. The prompt used is sourced from OpenAI's Sora:
+
+> *"A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about."*
+
+Please note that the FaceID feature was not utilized in this particular example.
+
+<video src="https://cdn.listp.com/videos/AnimateLCM-FaceID-01.webm" controls></video>
+
 ## License
 
 All workflows and code in this repository are released under the MIT License, allowing for open and flexible use of these resources.
